@@ -4,3 +4,4 @@ En este código se resuelven las consideraciones que se platean dentro del reque
 Se cambio el link de la imagen porque no cargaba
 El código que se cambió fue el siguiente
 ```<a href="aquí se cambió la ruta"> </a>```
+<img src="./octocat.webp">
